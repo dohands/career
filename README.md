@@ -11,15 +11,15 @@
 
 <br>
 
-## **[2021 개발자 채용 페이지](https://career.dohands.com)**
+## **[개발자 채용 페이지](https://career.dohands.com)**
 
-**지원 기간 : ~ 2021. 12. 31**
 
 [CTO 인터뷰](https://bit.ly/3EGQgmk)
 
 <br>
 
 **채용 포지션 :**
+- Software Development Manager
 - Frontend Software Engineer
 - Backend Software Engineer
 - Full-stack Developer
